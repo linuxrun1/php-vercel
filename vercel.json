@@ -2,7 +2,7 @@
   "version": 2,
   "name": "php-vercel",
   "functions": {
-    "api/test.php": {
+    "api/*.php": {
       "runtime": "vercel-php@0.1.0"
     }
   }
