@@ -3,7 +3,7 @@
   "name": "php-vercel",
   "functions": {
     "api/*.php": {
-      "runtime": "vercel-php@0.3.2"
+      "runtime": "vercel-php@0.5.2"
     }
   },
   "routes": [
